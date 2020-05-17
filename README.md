@@ -2,6 +2,9 @@
 
 * Author: *Eyob Tamir*
 
+* Links and Resources
+[Submittion PR] (https://github.com/eyobtamir-401n16/lab-18/pull/2) 
+
 * Applications
 
 `pickup - Tells the system when a new order needs to be delivered`
@@ -10,8 +13,7 @@
 
 `delivered - Tells the system when the order has been delivered`
 
-* Links and Resources
-[Submittion PR] () 
+
 
 *  How to initialize/run your application 
  `npm start` || `nodemon`
