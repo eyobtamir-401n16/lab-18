@@ -3,7 +3,7 @@
 * Author: *Eyob Tamir*
 
 * Links and Resources
-[Submittion PR] (https://github.com/eyobtamir-401n16/lab-18/pull/2) 
+[Submittion PR](https://github.com/eyobtamir-401n16/lab-18/pull/2) 
 
 * Applications
 
